@@ -23,11 +23,11 @@
 ##### 3.1 Contagem por genero
 ![Genero](Genero.jpg)
 ##### 3.2  Boxplot
-![boxplot_Age](boxplot_Age%20.jpg)
+![boxplot_Age](boxplot_age.jpg)
 
-![boxplot_income](boxplot_income%20.jpg)
+![boxplot_income](boxplot_income.jpg)
 
-![boxplot_score](boxplot_score%20.jpg)
+![boxplot_score](boxplot_score.jpg)
 
 ##### 3.2  Histograma
 ![metricas](metricas.jpg)
